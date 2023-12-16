@@ -1,9 +1,9 @@
 # Quantization aware training for Neural Networks
-Usage 
+Usage <br>
 
-run Final_gcn.ipynb for conducting QAT on GCN
-run Final_GPT.ipynb for conducting QAT on GPT 
-run MobileNet_8bit.ipynb for conducting QAT on MobileNet 
+run Final_gcn.ipynb for conducting QAT on GCN<br>
+run Final_GPT.ipynb for conducting QAT on GPT <br>
+run MobileNet_8bit.ipynb for conducting QAT on MobileNet <br>
 
 # Note:
 In Quantization aware training we train scaling factor for both weights and activation. The scaling factor is <br>
